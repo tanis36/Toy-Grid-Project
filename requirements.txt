@@ -1,0 +1,11 @@
+cvxopt
+image
+ipython
+ipythonblocks
+ipywidgets
+numpy
+opencv-python
+pandas
+pillow
+pytest-cov
+sortedcontainers
